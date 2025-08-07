@@ -1,6 +1,5 @@
-
-
 !pip install langchain openai chromadb tiktoken pypdf python-dotenv
+!pip install -U langchain-community
 
 from google.colab import files
 uploaded = files.upload()
